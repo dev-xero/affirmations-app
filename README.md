@@ -1,18 +1,11 @@
-Affirmations App - Starter Code
-================================
+# Affirmations App
 
-Starter code for the Android Basics in Compose: Affirmations app.
+Some fun and positive affirmations to remind yourself
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
+# App Location
+```bash
+app > release > app-release.apk
+```
 
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+made using Kotlin and Jetpack Compose
